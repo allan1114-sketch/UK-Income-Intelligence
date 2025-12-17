@@ -1,0 +1,5 @@
+{
+  "name": "UK Income Intelligence",
+  "description": "A sophisticated UK income tax calculator powered by Gemini AI to provide real-time tax insights, search-grounded rates, and expert financial guidance.",
+  "requestFramePermissions": []
+}
